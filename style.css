@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    /*justify-content: space-evenly;
+    align-items: stretch;*/
+}
+.flex div{
+    border: 1px solid black;
+    margin: 15px;
+    flex-basis: 100%;
+}
+
+.flex img{
+    max-width: 285px;
+}

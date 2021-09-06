@@ -1,0 +1,1 @@
+Exemplo feito na aula de CSS no curso da gama academy.
